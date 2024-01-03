@@ -12,3 +12,5 @@ dff
 [kimo](https://tw.yahoo.com/)
 
 [測試](9_batis_thy-2/src/main/resources/static/index.html)
+
+![](pic/101.jpg)
